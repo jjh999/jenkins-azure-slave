@@ -48,16 +48,12 @@ THE SOFTWARE.
   <interactive />
   
   <!--
-SECTION: Installation
-These options are being used during the installation only.
-Their modification will not take affect without the service re-installation.
--->
-
-  <!--
+	SECTION: Installation
+	These options are being used during the installation only.
+	Their modification will not take affect without the service re-installation.
     OPTION: serviceaccount
     Defines account, under which the service should run.
   -->
-  <!--
   <serviceaccount>
     <domain>%DOMAIN%</domain>
     <user>%USER%r</user>
