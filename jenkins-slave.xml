@@ -55,9 +55,9 @@ THE SOFTWARE.
     Defines account, under which the service should run.
   -->
   <serviceaccount>
-    <domain>%DOMAIN%</domain>
-    <user>%USER%r</user>
-    <password>%PASSWORD%</password>
+    <domain>@DOMAIN@</domain>
+    <user>@USER@</user>
+    <password>@PASSWORD@</password>
     <allowservicelogon>true</allowservicelogon>
   </serviceaccount>
   -->
